@@ -1,0 +1,777 @@
+[0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m
+[48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m [0m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [48;5;255m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+[0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [48;5;255m [48;5;255m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m [0m
+
+1.1.19
+
+TypeScript version used by Compodoc : 4.5.5
+
+TypeScript version of current project : 4.6.2
+
+Node.js version : v12.22.10
+
+Operating system : macOS Mojave
+
+[08:03:00] No configuration file found, switching to CLI flags.
+[08:03:00] Using tsconfig file : /Users/kenwu/dev-storybook/ng-taskbox/tsconfig.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.editorconfig
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.browserslistrc
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.gitignore
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/LICENSE
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/README.md
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/angular.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/build-storybook.log
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/documentation.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/jest.config.js
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/package-lock.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/package.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/tsconfig.app.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/tsconfig.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/tsconfig.spec.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.storybook/main.js
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.storybook/tsconfig.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.storybook/preview.js
+[08:03:00] Ignoring       : /Users/kenwu/dev-storybook/ng-taskbox/.storybook/typings.d.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/jest-config/setup.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/favicon.ico
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/index.html
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/main.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/polyfills.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/styles.css
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/jest-config/__mocks__/fileMock.js
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/jest-config/__mocks__/globalMocks.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/jest-config/__mocks__/styleMock.js
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/.gitkeep
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.component.css
+[08:03:00] Ignoring       : /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.component.spec.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.component.html
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.module.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/environments/environment.prod.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Button.stories.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/environments/environment.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Introduction.stories.mdx
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Header.stories.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Page.stories.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/User.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/button.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/button.css
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/header.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/header.css
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/page.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/page.css
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Light-webfont.eot
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Light-webfont.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Light-webfont.ttf
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Light-webfont.woff
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Regular-webfont.eot
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Regular-webfont.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Regular-webfont.ttf
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/font/OpenSans-Regular-webfont.woff
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/icon/percolate.eot
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/icon/percolate.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/icon/percolate.woff
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/assets/icon/percolate.ttf
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/inbox-screen.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-inbox-screen.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-inbox-screen.stories.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-task-list.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-task-list.stories.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task-list.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task.component.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task.module.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task.stories.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/models/task.model.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/code-brackets.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/colors.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/comments.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/direction.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/app/state/task.state.ts
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/flow.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/plugin.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/repo.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/assets/stackalt.svg
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/0064dfbf01b3d8d43a0b30988ce1325f.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/03f5ece655602a8eb72dccf8ec9f7c81.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/09600b62c572a5a93de29fc4b8173a28.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/09f4087080a6c7ba148df1a538b333d1.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/150e5eed08fbf51bdcea06a901751050.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/15cb62d56e1b534d9317d5c33c38a396.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/191f426af45cd0f18dd584b7ba27da25.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/199a5c38b9253a7771c352cdc0e74b70.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/19fa52adc55836d28edcdfe326419863.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/1d7bbe41840ee34ff65dcafe35200df7.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/20120f2f410c25568a0059487992cfda.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/201aa0f4da07f909d652d7c97705ce08.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2040c022ed06cbfc68b4eeb4b642bec4.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2199ebcb7a13df9ffe341e629bca8b01.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2179312ef841a6de26480274d9380d64.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2b5300c4761cfabd9a23040f05c66a66.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2b5340c9aef50ff6e363935094522d62.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2c63f57cfe021aca1313089a8fbe9e1d.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2cefcaa11f8abd97a1ed7d85bd770e76.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2e732c2f3f74e291c721a094a64acba7.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2fe8c8d3e9b0c1a01b4b8f58feeb90b9.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/2ee7d2649d1e03ea16f4e3dc937108a3.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/36da33b9a262837712010766edd75720.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/3aa6126674c195a0f4e111e6a36f4336.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/3c3f9b4d9bcb70a951f5834139092f1c.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/4124377cdfb2e8fa449a7f2b9bbef980.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/45fb1c14d8836c5367036ce8c8a5dece.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/47413f782f38e6c4f80876d697ab2b16.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/474e51de47c5edbca647ca43104f96bd.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/48d65110d28812150bd0f1d456370520.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/4b862582ae469fabc2ac25c9f0ee8bce.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/4d825da8b396bc836749c53768d06155.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/4ddbd988f23237d258c577516a859a97.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/520957cb86ae9d433db3bb66afe3f501.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/575e1da4555ff74e89fe3d4867d1c8df.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/58380c21e1da18e8c435ddbf7e2b46dc.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/587fb15dbdb8989ca265764ce20e2177.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/5c0c175b99760f793ed13ce6b8921234.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/5e0a10d9b83f16cbacf67adcac5281e3.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/5d7dd308c8771959646e34f46f7e4cf6.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/60179653c64860aed7e54410be6f75d2.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/62b32eddc33a76e7ddb84f6d3c0c5fbb.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/68ecda0894e58cae5c3a2f85bf6345df.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/6dcd0d4376a9316a116f2cecd16722b7.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/6e92485f73871df334f168e25a9f91ee.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/713b66ea19b8dcc6a255fa04065c3b24.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/7286f461faf3db805990d27b7f1c708d.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/8549f0f62fe5846438bcc9a2bf0adadf.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/86e6f8b01c84d352ff3e5dec37ec8f8f.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/8872490bc6be480cba479748ce2822cb.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/8999b5c97f86b227306bb6e7be0ad2c4.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/89ee418c34c50ff77f66917e2ada4760.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/8ea66e0baead6996aa0a530b2da2ac45.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/8fca2d421c6e5bcad4a63acd897a4f47.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/91e89809660defd29972071ffdebd2ef.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/97dfe9e1c75817b81504143458ade994.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/99eca5c9d167ccc141cdfe4f7a22513a.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/98a6695e9154ddc05e40936be9b6ca33.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/9a58b1b72d0df4ddaa5062d55dbe672a.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/9b7041b41951552e91ce686c5dd67d15.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/9c43941d6cea8db37b89f49c3ef50baf.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/9de535360434a10b1d9a10c188146023.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/a1fadd9f163e0c9ee4f943fdd4002b9d.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/a2d4c14ed9c3eb795f7d7ccacbbb33bc.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/a3cb7d00389a9c974fbdd7eae2a866a0.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/ab9668195c73bbe20bcf445bbc21052b.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/abaa4ab0f847973dc9405d899d9da664.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/adac00d93f4e733c4850db859c484cac.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/addd48f29a90267e2cb40db2a1d09a7d.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/b151ca56eb4e49bf6ae050de7c05e3a9.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/b5c09c81e0f0ad303829555a6bca3bbf.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/b8fe9a50294ba1abc3adcaa401f0a3d8.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/b96803885e0c426720f190244ad5862d.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/ba2538746439ce8bb07623e83d1e9e3e.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/c024f25d9a5cc021d4a5ac1ae4fc9757.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/c06df670ab68689fa49843fa33a410c3.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/c2bcc5495382a22c391148da6ac3595b.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/c3a1272f18ebc790ba3f5bb71fe96dd9.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/c6717b1d8c8cc50bc9caef8388259baa.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/cdc2268f15988728d6c80342e835d375.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/d8039eb188e319493772d7bd893b941c.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/d879b406c92b98cbd3e7371cfda70137.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/dbae482cffd501dd7a52b83ac6a49bc4.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/e26c5081d2cb5acac5dcdd64c974c4e6.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/e2828b3cea9c5a2fc8e883bfbbc3ab95.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/e672cc4d14cd91ec5e120c58b7f14737.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/e72ec46ca2139e04b16eb8b04cf296b6.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/e7857f9ecd7a62adb0d5ae50f98cd900.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/eae1c85567eaf9295f3896b1b5d488a8.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/ec47190f47eb36613b910337fa339418.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f2a3ace0b0489f02e968a660de61c03f.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f026a2a31f2abe03966665455fc68b3c.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f32314de7cd347949fed7546ba06b5d0.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f6b88e9ad0a741ee2d4f24ee97a8352c.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/66bd0ee60a493420b24e0ed97e0d8b82.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f80af524fe00473845438476dedc48fa.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f82865cd868a017ca82532ab1a283be9.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f9b07b2339935c9dcc478871ee60e582.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/f99ca15b98bac8cecf92d78b25397b4f.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/fe5e51fc6dac63806545e2b025106a79.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/babel-webpack/fed4577f31db1aa1e47bce7addf71d01.json
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/10.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/1.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/11.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/12.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/14.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/13.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/2.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/3.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/4.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/5.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/0.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/6.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/7.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/8.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/9.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/index.pack
+[08:03:00] Including      : /Users/kenwu/dev-storybook/ng-taskbox/.angular/cache/13.3.7/angular-webpack/209c8f8f8184c656fd86fb098cdc3482751f5ace/index.pack.old
+[08:03:00] Searching package.json file
+[08:03:00] package.json file found
+[08:03:00] Processing package.json dependencies
+[08:03:00] Searching README.md, CHANGELOG.md, CONTRIBUTING.md, LICENSE.md, TODO.md files
+[08:03:00] README.md file found
+[08:03:00] Error during /Users/kenwu/dev-storybook/ng-taskbox/CHANGELOG read
+[08:03:00] Continuing without CHANGELOG.md file
+[08:03:00] Error during /Users/kenwu/dev-storybook/ng-taskbox/CONTRIBUTING read
+[08:03:00] Continuing without CONTRIBUTING.md file
+[08:03:01] LICENSE.md file found
+[08:03:01] Error during /Users/kenwu/dev-storybook/ng-taskbox/TODO read
+[08:03:01] Continuing without TODO.md file
+[08:03:01] Get dependencies data
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/jest-config/setup.ts
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/main.ts
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/polyfills.ts
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/jest-config/__mocks__/globalMocks.ts
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.component.ts
+[08:03:01] found          : AppComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.module.ts
+[08:03:01] found          : AppModule
+[08:03:01]                : - imports:
+[08:03:01]                : 	- BrowserModule
+[08:03:01]                : 	- TaskModule
+[08:03:01]                : 	- NgxsModule
+[08:03:01]                : 	- NgxsReduxDevtoolsPluginModule
+[08:03:01]                : 	- NgxsLoggerPluginModule
+[08:03:01]                : - declarations:
+[08:03:01]                : 	- AppComponent
+[08:03:01]                : 	- PureInboxScreenComponent
+[08:03:01]                : 	- InboxScreenComponent
+[08:03:01]                : - bootstrap:
+[08:03:01]                : 	- AppComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/environments/environment.prod.ts
+[08:03:01] found          : environment
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Button.stories.ts
+[08:03:01] found          : Template
+[08:03:01] found          : Primary
+[08:03:01] found          : Secondary
+[08:03:01] found          : Large
+[08:03:01] found          : Small
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/environments/environment.ts
+[08:03:01] found          : environment
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Header.stories.ts
+[08:03:01] found          : Template
+[08:03:01] found          : LoggedIn
+[08:03:01] found          : LoggedOut
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Page.stories.ts
+[08:03:01] found          : Template
+[08:03:01] found          : LoggedOut
+[08:03:01] found          : LoggedIn
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/User.ts
+[08:03:01] found          : User
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/button.component.ts
+[08:03:01] found          : ButtonComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/header.component.ts
+[08:03:01] found          : HeaderComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/stories/page.component.ts
+[08:03:01] found          : PageComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/inbox-screen.component.ts
+[08:03:01] found          : InboxScreenComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-inbox-screen.component.ts
+[08:03:01] found          : PureInboxScreenComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-inbox-screen.stories.ts
+[08:03:01] found          : Template
+[08:03:01] found          : Default
+[08:03:01] found          : Error
+[08:03:01] found          : WithInteractions
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-task-list.component.ts
+[08:03:01] found          : PureTaskListComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/pure-task-list.stories.ts
+[08:03:01] found          : Template
+[08:03:01] found          : Default
+[08:03:01] found          : WithPinnedTasks
+[08:03:01] found          : Loading
+[08:03:01] found          : Empty
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task-list.component.ts
+[08:03:01] found          : TaskListComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task.component.ts
+[08:03:01] found          : TaskComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task.module.ts
+[08:03:01] found          : TaskModule
+[08:03:01]                : - imports:
+[08:03:01]                : 	- CommonModule
+[08:03:01]                : 	- NgxsModule
+[08:03:01]                : - exports:
+[08:03:01]                : 	- TaskComponent
+[08:03:01]                : 	- TaskListComponent
+[08:03:01]                : - declarations:
+[08:03:01]                : 	- TaskComponent
+[08:03:01]                : 	- TaskListComponent
+[08:03:01]                : 	- PureTaskListComponent
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/components/task.stories.ts
+[08:03:01] found          : actionsData
+[08:03:01] found          : Template
+[08:03:01] found          : Default
+[08:03:01] found          : Pinned
+[08:03:01] found          : Archived
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/models/task.model.ts
+[08:03:01] found          : Task
+[08:03:01] parsing        : /Users/kenwu/dev-storybook/ng-taskbox/src/app/state/task.state.ts
+[08:03:01] found          : actions
+[08:03:01] found          : ArchiveTask
+[08:03:01] found          : PinTask
+[08:03:01] found          : AppError
+[08:03:01] found          : defaultTasks
+[08:03:01] found          : TaskStateModel
+[08:03:01] found          : TasksState
+[08:03:01] -------------------
+[08:03:01] Project statistics 
+[08:03:01] - files      : 193
+[08:03:01] - module     : 2
+[08:03:01] - component  : 9
+[08:03:01] - injectable : 1
+[08:03:01] - class      : 3
+[08:03:01] - interface  : 3
+[08:03:01] -------------------
+[08:03:01] Prepare components
+[08:03:01]  ButtonComponent has styleUrls, include them
+[08:03:01]  HeaderComponent has styleUrls, include them
+[08:03:01]  PageComponent has styleUrls, include them
+[08:03:01] Prepare modules
+[08:03:01] Prepare injectables
+[08:03:01] Prepare classes
+[08:03:01] Prepare interfaces
+[08:03:01] Prepare miscellaneous
+[08:03:01] Process documentation coverage report
+[08:03:01] Generating documentation in export format json
+[08:03:01] Documentation generated in ./ in 0.384 seconds
+info @storybook/angular v6.5.7
+info 
+info => Cleaning outputDir: /var/folders/gn/qk914bj109d_gwpw7x8t4hc00000gn/T/chromatic--2511-vBKPY2xQ5gMR
+info => Loading presets
+info => Compiling manager..
+info => Compiling preview..
+info Addon-docs: using MDX1
+info => Using implicit CSS loaders
+info => Loading angular-cli config for angular >= 13.0.0
+info => Using angular project with "tsConfig:/Users/kenwu/dev-storybook/ng-taskbox/.storybook/tsconfig.json"
+WARN Your Storybook startup uses a solution that will not be supported in version 7.0. 
+WARN You must use angular builder to have an explicit configuration on the project used in angular.json
+WARN Read more at:
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#sb-angular-builder)
+WARN - https://github.com/storybookjs/storybook/blob/next/MIGRATION.md#angular13)
+info => Using angular project "taskbox:build" for configuring Storybook
+info => Using default Webpack5 setup
+<s> [webpack.Progress] 0% 
+
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 1% setup before run NodeEnvironmentPlugin
+<s> [webpack.Progress] 1% setup before run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 2% setup run
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 4% setup normal module factory CaseSensitivePathsPlugin
+<s> [webpack.Progress] 4% setup normal module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 5% setup context module factory
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 6% setup before compile angular-compiler
+- @ngxs/store/internals/testing [fesm2015/esm2015] (git+https://github.com/ngxs/store.git)
+<s> [webpack.Progress] 6% setup before compile ProgressPlugin
+<s> [webpack.Progress] 6% setup before compile
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 7% setup compile ExternalsPlugin
+<s> [webpack.Progress] 7% setup compile
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 8% setup compilation CopyPlugin
+<s> [webpack.Progress] 8% setup compilation angular-compiler
+<s> [webpack.Progress] 8% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 8% setup compilation ArrayPushCallbackChunkFormatPlugin
+<s> [webpack.Progress] 8% setup compilation JsonpChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation StartupChunkDependenciesPlugin
+<s> [webpack.Progress] 8% setup compilation ImportScriptsChunkLoadingPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileWasmPlugin
+<s> [webpack.Progress] 8% setup compilation FetchCompileAsyncWasmPlugin
+<s> [webpack.Progress] 8% setup compilation WorkerPlugin
+<s> [webpack.Progress] 8% setup compilation SplitChunksPlugin
+<s> [webpack.Progress] 8% setup compilation RuntimeChunkPlugin
+<s> [webpack.Progress] 8% setup compilation ResolverCachePlugin
+<s> [webpack.Progress] 8% setup compilation HtmlWebpackPlugin
+<s> [webpack.Progress] 8% setup compilation
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 9% setup compilation named-chunks-plugin
+<s> [webpack.Progress] 9% setup compilation DedupeModuleResolvePlugin
+<s> [webpack.Progress] 9% setup compilation AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 9% setup compilation mini-css-extract-plugin
+<s> [webpack.Progress] 9% setup compilation SuppressExtractedTextChunks
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation ProvidePlugin
+<s> [webpack.Progress] 9% setup compilation ProgressPlugin
+<s> [webpack.Progress] 9% setup compilation ChunkPrefetchPreloadPlugin
+<s> [webpack.Progress] 9% setup compilation SourceMapDevToolPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptModulesPlugin
+<s> [webpack.Progress] 9% setup compilation JsonModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AssetModulesPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation EntryPlugin
+<s> [webpack.Progress] 9% setup compilation RuntimePlugin
+<s> [webpack.Progress] 9% setup compilation InferAsyncModulesPlugin
+<s> [webpack.Progress] 9% setup compilation DataUriPlugin
+<s> [webpack.Progress] 9% setup compilation FileUriPlugin
+<s> [webpack.Progress] 9% setup compilation CompatibilityPlugin
+<s> [webpack.Progress] 9% setup compilation HarmonyModulesPlugin
+<s> [webpack.Progress] 9% setup compilation AMDPlugin
+<s> [webpack.Progress] 9% setup compilation RequireJsStuffPlugin
+<s> [webpack.Progress] 9% setup compilation CommonJsPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation LoaderPlugin
+<s> [webpack.Progress] 9% setup compilation NodeStuffPlugin
+<s> [webpack.Progress] 9% setup compilation APIPlugin
+<s> [webpack.Progress] 9% setup compilation ExportsInfoApiPlugin
+<s> [webpack.Progress] 9% setup compilation WebpackIsIncludedPlugin
+<s> [webpack.Progress] 9% setup compilation ConstPlugin
+<s> [webpack.Progress] 9% setup compilation UseStrictPlugin
+<s> [webpack.Progress] 9% setup compilation RequireIncludePlugin
+<s> [webpack.Progress] 9% setup compilation RequireEnsurePlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation ImportPlugin
+<s> [webpack.Progress] 9% setup compilation RequireContextPlugin
+<s> [webpack.Progress] 9% setup compilation SystemPlugin
+<s> [webpack.Progress] 9% setup compilation ImportMetaPlugin
+<s> [webpack.Progress] 9% setup compilation URLPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsFactoryPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPresetPlugin
+<s> [webpack.Progress] 9% setup compilation DefaultStatsPrinterPlugin
+<s> [webpack.Progress] 9% setup compilation JavascriptMetaInfoPlugin
+<s> [webpack.Progress] 9% setup compilation EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 9% setup compilation RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 9% setup compilation MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 9% setup compilation FlagIncludedChunksPlugin
+<s> [webpack.Progress] 9% setup compilation SideEffectsFlagPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyExportsPlugin
+<s> [webpack.Progress] 9% setup compilation FlagDependencyUsagePlugin
+<s> [webpack.Progress] 9% setup compilation InnerGraphPlugin
+<s> [webpack.Progress] 9% setup compilation MangleExportsPlugin
+<s> [webpack.Progress] 9% setup compilation ModuleConcatenationPlugin
+<s> [webpack.Progress] 9% setup compilation NoEmitOnErrorsPlugin
+<s> [webpack.Progress] 9% setup compilation RealContentHashPlugin
+<s> [webpack.Progress] 9% setup compilation WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 9% setup compilation NamedModuleIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 9% setup compilation DefinePlugin
+<s> [webpack.Progress] 9% setup compilation TerserPlugin
+<s> [webpack.Progress] 9% setup compilation TemplatedPathPlugin
+<s> [webpack.Progress] 9% setup compilation RecordIdsPlugin
+<s> [webpack.Progress] 9% setup compilation WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 9% setup compilation IgnoreWarningsPlugin
+<s> [webpack.Progress] 9% setup compilation
+<s> [webpack.Progress] 10% building
+<s> [webpack.Progress] 10% building 0/1 entries 0/0 dependencies 0/0 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@angular-devkit/build-angular/src/babel/webpack-loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/babel-loader/lib/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 12/18 dependencies 0/12 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/mini-css-extract-plugin/dist/loader.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/css-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building import loader ./node_modules/postcss-loader/dist/cjs.js
+<s> [webpack.Progress] 10% building 0/18 entries 13/18 dependencies 0/13 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@ngtools/webpack/src/ivy/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 15/19 dependencies 0/15 modules
+<s> [webpack.Progress] 10% building 0/18 entries 100/146 dependencies 0/59 modules
+<s> [webpack.Progress] 10% building import loader ./node_modules/@storybook/source-loader/dist/cjs/index.js
+<s> [webpack.Progress] 10% building 0/18 entries 115/147 dependencies 2/73 modules
+<s> [webpack.Progress] 13% building 1/18 entries 115/147 dependencies 2/73 modules
+<s> [webpack.Progress] 16% building 2/18 entries 213/248 dependencies 12/118 modules
+<s> [webpack.Progress] 16% building 2/18 entries 398/462 dependencies 37/177 modules
+<s> [webpack.Progress] 19% building 3/18 entries 559/629 dependencies 61/225 modules
+<s> [webpack.Progress] 19% building 3/18 entries 857/904 dependencies 78/300 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1100/1199 dependencies 119/346 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1200/1250 dependencies 124/376 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1264/1400 dependencies 150/378 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1389/1506 dependencies 169/400 modules
+<s> [webpack.Progress] 19% building 3/18 entries 1669/2000 dependencies 194/448 modules
+<s> [webpack.Progress] 22% building 4/18 entries 1853/2100 dependencies 249/531 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2246/2800 dependencies 281/641 modules
+<s> [webpack.Progress] 22% building 4/18 entries 2900/2940 dependencies 306/855 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3380/3430 dependencies 348/900 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3436/3500 dependencies 349/937 modules
+<s> [webpack.Progress] 22% building 4/18 entries 3709/3800 dependencies 359/964 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4400/4499 dependencies 561/1028 modules
+<s> [webpack.Progress] 22% building 4/18 entries 4849/5000 dependencies 799/1141 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5000/5122 dependencies 845/1156 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5145/5300 dependencies 891/1204 modules
+<s> [webpack.Progress] 22% building 4/18 entries 5600/5676 dependencies 1039/1365 modules
+<s> [webpack.Progress] 22% building 4/18 entries 6099/6200 dependencies 1176/1591 modules
+<s> [webpack.Progress] 24% building 4/18 entries 6280/6293 dependencies 1300/1629 modules
+<s> [webpack.Progress] 25% building 4/18 entries 6500/6563 dependencies 1435/1651 modules
+<s> [webpack.Progress] 26% building 4/18 entries 6563/6600 dependencies 1480/1663 modules
+<s> [webpack.Progress] 27% building 5/18 entries 6733/6744 dependencies 1590/1693 modules
+<s> [webpack.Progress] 28% building 6/18 entries 6733/6744 dependencies 1591/1693 modules
+<s> [webpack.Progress] 31% building 7/18 entries 6733/6744 dependencies 1592/1693 modules
+<s> [webpack.Progress] 34% building 8/18 entries 6733/6744 dependencies 1593/1693 modules
+<s> [webpack.Progress] 37% building 9/18 entries 6733/6744 dependencies 1594/1693 modules
+<s> [webpack.Progress] 40% building 10/18 entries 6733/6744 dependencies 1595/1693 modules
+<s> [webpack.Progress] 43% building 11/18 entries 6733/6744 dependencies 1596/1693 modules
+<s> [webpack.Progress] 46% building 12/18 entries 6733/6744 dependencies 1597/1693 modules
+<s> [webpack.Progress] 49% building 13/18 entries 6733/6744 dependencies 1598/1693 modules
+<s> [webpack.Progress] 52% building 14/18 entries 6861/6870 dependencies 1658/1717 modules
+<s> [webpack.Progress] 55% building 15/18 entries 6956/6959 dependencies 1709/1756 modules
+<s> [webpack.Progress] 58% building 16/18 entries 6958/6959 dependencies 1725/1758 modules
+<s> [webpack.Progress] 61% building 17/18 entries 6958/6959 dependencies 1725/1758 modules
+<s> [webpack.Progress] 64% building 18/18 entries 6962/6962 dependencies 1759/1759 modules
+<s> [webpack.Progress] 65% building
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 69% building finish
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing finish module graph angular-compiler
+<s> [webpack.Progress] 70% sealing finish module graph ResolverCachePlugin
+<s> [webpack.Progress] 70% sealing finish module graph InferAsyncModulesPlugin
+<s> [webpack.Progress] 70% sealing finish module graph FlagDependencyExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph InnerGraphPlugin
+<s> [webpack.Progress] 70% sealing finish module graph WasmFinalizeExportsPlugin
+<s> [webpack.Progress] 70% sealing finish module graph
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 70% sealing plugins WarnCaseSensitiveModulesPlugin
+<s> [webpack.Progress] 70% sealing plugins
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing dependencies optimization SideEffectsFlagPlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization FlagDependencyUsagePlugin
+<s> [webpack.Progress] 71% sealing dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 71% sealing after dependencies optimization
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 72% sealing chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing after chunk graph
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 73% sealing optimizing
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 74% sealing module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing after module optimization
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 75% sealing chunk optimization EnsureChunkConditionsPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization MergeDuplicateChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization SplitChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization RemoveEmptyChunksPlugin
+<s> [webpack.Progress] 75% sealing chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 76% sealing after chunk optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 77% sealing module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 77% sealing after module and chunk tree optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing chunk modules optimization ModuleConcatenationPlugin
+<s> [webpack.Progress] 78% sealing chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 78% sealing after chunk modules optimization
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 79% sealing module reviving RecordIdsPlugin
+<s> [webpack.Progress] 79% sealing module reviving
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing before module ids
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 80% sealing module ids NamedModuleIdsPlugin
+<s> [webpack.Progress] 80% sealing module ids
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 81% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing module id optimization
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 82% sealing chunk reviving RecordIdsPlugin
+<s> [webpack.Progress] 82% sealing chunk reviving
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 83% sealing before chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk ids DeterministicChunkIdsPlugin
+<s> [webpack.Progress] 84% sealing chunk ids
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 84% sealing chunk id optimization FlagIncludedChunksPlugin
+<s> [webpack.Progress] 84% sealing chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 85% sealing after chunk id optimization
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record modules RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record modules
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 86% sealing record chunks RecordIdsPlugin
+<s> [webpack.Progress] 86% sealing record chunks
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing module hashing
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 87% sealing code generation
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 88% sealing runtime requirements
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 89% sealing after hashing
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 90% sealing record hash
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing module assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 91% sealing chunk assets processing
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 92% sealing asset processing copy-webpack-plugin
+<s> [webpack.Progress] 92% sealing asset processing PersistentChildCompilerSingletonPlugin
+<s> [webpack.Progress] 92% sealing asset processing TerserPlugin
+info => Manager built (51 s)
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.css generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.c9a66e5a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin main.c9a66e5a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.875ad8f3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin runtime~main.875ad8f3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.e83760ac.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 747.e83760ac.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.ba8790a5.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 366.ba8790a5.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 565.97c23ebe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 239.358924bb.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.a5ac617c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 471.a5ac617c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 345.793cee98.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 39.920b7308.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 996.b03aef82.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 225.ff116299.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 291.03611412.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.26eb85c3.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.26eb85c3.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.26eb85c3.iframe.bundle.js attach SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin 802.26eb85c3.iframe.bundle.js attached SourceMap
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing SourceMapDevToolPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing HtmlWebpackPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.1d95607a.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin main.1d95607a.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.304222e7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin runtime~main.304222e7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 747.2e592bfe.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 345.b8f4061f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 996.66e30629.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 225.adf1b44b.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.cc7c96d6.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 366.cc7c96d6.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 565.de0d997c.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 239.43bc22d7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.dec8ecf7.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 471.dec8ecf7.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 39.2ed10874.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generate SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin 291.4044512f.iframe.bundle.js generated SourceMap
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin resolve sources
+<s> [webpack.Progress] 92% sealing asset processing RealContentHashPlugin
+<s> [webpack.Progress] 92% sealing asset processing AnyComponentStyleBudgetChecker
+<s> [webpack.Progress] 92% sealing asset processing
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing after asset optimization
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 93% sealing recording
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 94% sealing after seal
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 95% emitting emit
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 98% emitting after emit SizeLimitsPlugin
+<s> [webpack.Progress] 98% emitting after emit
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% done plugins CaseSensitivePathsPlugin
+<s> [webpack.Progress] 99% done plugins
+<s> [webpack.Progress] 99% 
+
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache store build dependencies
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 99% cache begin idle
+<s> [webpack.Progress] 100% 
+
+info => Preview built (1 min)
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/app/app.module.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/environments/environment.prod.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/environments/environment.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/main.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Button.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Header.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/stories/Page.stories.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/stories/User.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/stories/button.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/stories/header.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN /Users/kenwu/dev-storybook/ng-taskbox/src/stories/page.component.ts is part of the TypeScript compilation but it's unused.
+WARN Add only entry points to the 'files' or 'include' properties in your tsconfig.
+WARN asset size limit: The following asset(s) exceed the recommended size limit (244 KiB).
+WARN This can impact web performance.
+WARN Assets: 
+WARN   366.cc7c96d6.iframe.bundle.js (601 KiB)
+WARN   565.de0d997c.iframe.bundle.js (603 KiB)
+WARN   471.dec8ecf7.iframe.bundle.js (791 KiB)
+WARN   802.5c824624.iframe.bundle.js (3.15 MiB)
+WARN entrypoint size limit: The following entrypoint(s) combined asset size exceeds the recommended limit (244 KiB). This can impact web performance.
+WARN Entrypoints:
+WARN   main (3.26 MiB)
+WARN       runtime~main.304222e7.iframe.bundle.js
+WARN       802.5c824624.iframe.bundle.js
+WARN       main.css
+WARN       main.1d95607a.iframe.bundle.js
+WARN 
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 99% cache shutdown
+<s> [webpack.Progress] 100% 
+
+info => Output directory: /var/folders/gn/qk914bj109d_gwpw7x8t4hc00000gn/T/chromatic--2511-vBKPY2xQ5gMR
